@@ -1,7 +1,7 @@
 {
   "name": "@matschik/svelte-calendar",
   "main": "src/main.js",
-  "version": "1.5.0",
+  "version": "1.0.0",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^6.0.0",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/6eDesign/svelte-calendar.git"
+    "url": "https://github.com/matschik/svelte-calendar.git"
   },
   "scripts": {
     "autobuild": "rollup -c -w",
